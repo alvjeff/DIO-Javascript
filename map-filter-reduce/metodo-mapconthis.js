@@ -21,3 +21,6 @@ const nums = [1, 2]
 console.log('this -> maçã', mapComThis(nums, maca))
 
 console.log('this -> laranja', mapComThis(nums, laranja))
+
+
+//obs1: importante notar que o this foi necessario pq estava trabalhando com uma array de objetos.
